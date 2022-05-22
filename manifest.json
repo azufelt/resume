@@ -1,0 +1,9 @@
+{
+  "short_name": "Resume",
+  "name": "Ashley Zufelt",
+  "start_url": "index.html",
+  "display": "standalone",
+  "scope": "/",
+  "description": "Front End Web Developer"
+ 
+}

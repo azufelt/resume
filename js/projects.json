@@ -1,0 +1,155 @@
+{"projects": [ 
+  {
+    "name": "Node.js & MongoDB",
+    "sub": "Currently in Production",
+    "image": "redwood-design.jpg",
+    "website": "https://github.com/azufelt/redwood",
+    "description": [
+    "Dynamic e-Commerce shop",
+    "MongoDB, Express, NPM, Node.js",
+    "NoSQL for Server Logic",
+    "User login/password ",
+    "Admin Dashboard to manage shop products"
+    ]
+  },
+  {
+    "name": "restAPI",
+    "sub": "Node.js · Swagger · MongoDB",
+    "image": "recipe-api.jpg",
+    "website": "https://cse341-recipe-project.herokuapp.com/api-docs/",
+    "description": [
+    "Swagger UI build-out for endpoint testing",
+    "Designed endpoints for dynamic api, in correlation to a Frontend UX/UI application ",
+    "Wrote API documentation in YAML, for use through Swagger.io",
+    "Node.js to write POST routes"
+    ]
+  },
+  {
+    "name": "SQL, Database Design",
+    "sub": "A Projecet Management Application",
+    "image": "database-design.jpg",
+    "website": "https://azufelt.github.io/databasedesign/",
+    "description": [
+    "ERD - Designed table relationships and attributes",
+    "Forward engineered database schema in mySQL",
+    "CRUD statements for every table",
+    "SQL statements for walk-thru test cases",
+    "Designed in correlation with wire-frame prototype"
+    ]
+  },
+  {
+    "name": "Object Oriented Programming",
+    "sub": "Created March 2022",
+    "image": "python-game.jpg",
+    "website": "https://github.com/azufelt/python-projects",
+    "description": [
+    "Python - classes and methods",
+    "Arcade Libraries to build Asteroids & Skeet",
+    "PANDAS to run data analysis",
+    "Matplotlib - box plots, scatter plots, pie charts, circle graphs",
+    "Inner-join data for analysis comparisons",
+    "Recursion, Inheritance, @abstractmethod"
+    ]
+  },
+  {
+    "name": "All SASS",
+    "sub": "Created November 2021",
+    "image": "zengarden-page-view-sq.jpg",
+    "website": "https://azufelt.github.io/zengarden/",
+    "description": [
+    "Created Adobe XD High Fidelity Wire-frames based on rigid HTML",
+    "Collaborative Group Project",
+    "Custom SASS partials and mixins",
+    "Bootstrap",
+    "@Keyframe Animations",
+    "Complex Grid Layout to accommodate specific HTML requirements & 100% design match"
+    ]
+  },
+    {
+    "name": "JSON & API's",
+    "sub": "Created November 2021",
+    "image": "disney-line-app.jpg",
+    "website": "https://www.ashleyzufelt.com/disneylinebuddy/main.html",
+    "description": [
+     "Various API  requests for weather, time-zone offset & Encyclopedia data",
+     "RegEx Form Validation",
+     "Animations paired with Logic",
+     "Built JSON for Trivia elements",
+      "Event Listeners paired with @keyframes, transitions and pulling logic data from JSON"
+    ]
+  },
+  {
+    "name": "PHP & mySQL",
+    "sub": "Created November 2021",
+    "image": "phpmotors.png",
+    "website": "https://github.com/azufelt/phpmotors",
+    "description": [
+      "Model · View · Controller",
+      "User login authentication to deliver public or admin views",
+      "Post and edit user reviews",
+      "Admin dashboard to add/edit items"
+    ]
+  },
+  {
+    "name": "Wireframe to Production",
+    "sub": "Created August 2021",
+    "image": "votetanyawillis.jpg",
+    "website": "https://azufelt.github.io/votefortanya/",
+    "description": [
+     "Wireframe Mock-ups in Adobe XD",
+    "Mobile responsive",
+    "CSS animations for User interaction",
+    "Custom, coded by hand",
+    "Created and rendered graphics for optimized load speed"
+    ]
+  },
+  {
+    "name": "Responsive Grid & Javascript",
+    "sub": "Created June 2021",
+    "image": "device-size-page-display-city.jpg",
+    "website": "https://azufelt.github.io/az/wdd230/cityofadairsville/",
+    "description": [
+     "Error free, 8-page site",
+    "Perfect scores across Chrome Dev Lighthouse",
+    "Built JSON to populate HTML from JS",
+    "Streamlined CSS in a mobile-first approach, to maintain low site weight",
+    "Fetched data from multiple API sources"
+    ]
+  },
+  {
+    "name": "HTML5 and CSS3",
+    "sub": "A company re-brand site mock-up",
+    "image": "device-size-page-display.jpg",
+    "website": "https://azufelt.github.io/az/redwooddesignco/",
+    "description": [
+     "Debugged and validated HTML5/CSS semantic errors",
+     "Optimized load speed by 3%",
+     "Increased SEO capabilities by 20%",
+     "Updated desktop and mobile to be 100% WAVE accessible compliant"
+      
+    ]
+  },
+  {
+    "name": "Javascript & Build-to-Specs",
+    "sub": "A fictional weather site",
+    "image": "device-size-page-display-weather.jpg",
+    "website": "https://azufelt.github.io/az/wdd230/drizzlybear",
+    "description": [
+     "Coded CSS according to client provided design",
+     "AddEventListener functions, mobile nav & lazy load, used within Javascript to enhance UX",
+    "Created personas and site-plan for specific target audience"
+    ]
+  },
+  {
+    "name": "WordPress",
+    "sub": "A custom Non-Profit site-build",
+    "image": "device-size-page-display-nonprofit.jpg",
+    "website": "https://www.nonprofit.ashleyzufelt.com/",
+    "description": [
+     "Low & Hi-fidelty mock-ups using Adobe XD",
+     "Hand-coded custom CSS within CMS",
+     "Divitheme base plugin",
+    "From wireframe to hi-fidelity mocks to production, adhering to exact specs"
+    ]
+  }
+]}
